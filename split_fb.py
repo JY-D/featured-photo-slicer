@@ -1,7 +1,7 @@
 import cv2
 import numpy as np 
 
-img = cv2.imread('35592238096_b4cd272659_o.jpg')
+img = cv2.imread('your_photo_name.jpg')
 height = np.shape(img)[0]
 x_y = np.shape(img)[1] - np.shape(img)[0]
 #x_start don't > x_y
