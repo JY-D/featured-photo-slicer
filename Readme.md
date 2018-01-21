@@ -13,7 +13,6 @@
     ``` 
     python split_fb.py
     ```
-4. You will get sliced photo in ./slit folder
+4. You will get sliced photo in ./split folder
 5. Upload 5 image to your Facebook Feature Photo. 
-
 The Sequence is split_img1 to 5
