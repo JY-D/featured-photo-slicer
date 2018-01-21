@@ -1,9 +1,9 @@
 # Feature Photo Slicer
-<iframe src="https://drive.google.com/file/d/1C2yw6jgK009dkOLK9MRHPu4RfGtNNvu-/preview" width="640" height="480">
-</iframe>
+![](https://i.imgur.com/MymhFb6.png)
 
 ## Environment
 **OS**: Linux / Unix / Windows (Not sure)
+
 **Python**: 3.6 (Anaconda) , OpenCV3
 
 ## Steps:
@@ -15,4 +15,5 @@
     ```
 4. You will get sliced photo in ./slit folder
 5. Upload 5 image to your Facebook Feature Photo. 
+
 The Sequence is split_img1 to 5
